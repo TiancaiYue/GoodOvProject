@@ -1,0 +1,6 @@
+好机汇SVN链接地址
+后台：https://192.168.1.250/svn/2018/好机汇/haojihui
+IOS：https://192.168.1.250/svn/2018/好机汇/haojihui——IOS
+Android：https://192.168.1.250/svn/2018/好机汇/haojihui——Android
+产品部：https://192.168.1.250/svn/2018/好机汇/haojihui——文档
+微信：https://192.168.1.250/svn/2018/好机汇/haojihui——weixin

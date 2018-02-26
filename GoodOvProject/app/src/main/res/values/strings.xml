@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">好机汇</string>
+    <string name="main_tab_name_home">首页</string>
+    <string name="main_tab_name_boutique">精品</string>
+    <string name="main_tab_name_service">服务</string>
+    <string name="main_tab_name_mine">我的</string>
+</resources>
